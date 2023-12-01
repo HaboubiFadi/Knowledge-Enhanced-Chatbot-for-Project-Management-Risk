@@ -66,7 +66,13 @@ Python 3.x
   * Use the model.py file to read the CSV file with concepts and relationships.
   * Convert concepts with features into embedding vectors and relationships into edge embeddings.
   * Utilize GNN for link predictions.
+
+
+    
 **5)Chatbot Pipeline with Rasa and Flask:**
+
+
+
 
   * Use the chatpipeline.py file to read all concepts with relationships. 
   * Combine with Rasa for query understanding.
